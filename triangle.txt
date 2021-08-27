@@ -1,0 +1,3 @@
+Bonus (Optional)
+--Create the same application using React to get a good hold in reactJS
+--Create an application by taking another shape and calculate area
